@@ -1,4 +1,4 @@
-﻿Company Name ,Account Number,Country ,Reporting Year,Ticker Symbol ,ISIN ,Disclosure Score,Performance Band,Parent Account ,Permission,Response Status,Scope 1 (metric tonnes CO2e),Scope 2 (metric tonnes CO2e),Country Location,:@computed_region_n7dz_xzkg
+﻿Company_Name ,Account_Number,Country ,Reporting_Year,Ticker_Symbol ,ISIN ,Disclosure_Score,Performance_Band,Parent_Account ,Permission,Response_Status,Scope_1 ,Scope_2 ,Country_Location,:@computed_region_n7dz_xzkg
 VTB Bank,20356,Russia,2013,VTBR RU,RU000A0JP5V6,,,,,NR,,,"(61.52401, 105.318756)",3
 CEZ,3082,Czech Republic,2013,CEZ CP,CZ0005112300,,,,,NR,,,"(49.817492, 15.472962)",36
 Beiersdorf AG,1641,Germany,2013,BEI GR,DE0005200000,51,C,,Public,AQ*,"22,071","51,571","(51.165691, 10.451526)",36
